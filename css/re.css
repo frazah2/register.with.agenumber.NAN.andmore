@@ -1,0 +1,29 @@
+#name_err{
+    color: red!important;
+  
+}
+
+.error-message {
+    color: white;
+    font-size: 0.875em;
+    margin-top: 0.25em;
+}
+body{
+    background-image: url('https://t3.ftcdn.net/jpg/06/33/22/94/360_F_633229474_uPudxb1UTLIvzs0iLeA9Mf0yws2kypAD.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text-center{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+.buton{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.btn-success{
+    width: 150px;
+    height: 50px;
+}
